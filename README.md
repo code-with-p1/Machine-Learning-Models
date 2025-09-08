@@ -1,6 +1,6 @@
 # Machine Learning Fundamentals: A Hands-On Exploration
 
-![Machine Learning](hhttps://img.shields.io/badge/M%20machine-Learning-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange) ![Jupyter Notebook](https://img.shields.io/badge/Platform-Jupyter_Notebook-red)
+![Machine Learning](https://img.shields.io/badge/M%20machine-Learning-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange) ![Jupyter Notebook](https://img.shields.io/badge/Platform-Jupyter_Notebook-red)
 
 A curated collection of Jupyter notebooks designed to provide a clear and practical understanding of the four fundamental pillars of Machine Learning. This repository serves as a learning path for beginners and a reference for enthusiasts to explore core concepts using the classic, beginner-friendly datasets from `scikit-learn`.
 
