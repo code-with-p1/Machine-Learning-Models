@@ -60,12 +60,10 @@ Before you begin, ensure you have the following installed:
 ```
 Machine-Learning-Models/
 │
-├── 1_Classification_Models.ipynb # Notebook for classification tasks
-├── 2_Regression_Models.ipynb # Notebook for regression tasks
-├── 3_Clustering_Models.ipynb # Notebook for unsupervised clustering
-├── 4_Dimensionality_Reduction.ipynb # Notebook for PCA, t-SNE, etc.
-│
-├── assets/ # (Optional) Folder for images used in notebooks
+├── Classification Models.ipynb # Notebook for classification tasks
+├── Regression Models.ipynb # Notebook for regression tasks
+├── Clustering Models.ipynb # Notebook for unsupervised clustering
+├── Dimensionality Reduction Models.ipynb # Notebook for PCA, t-SNE, etc.
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 ```
